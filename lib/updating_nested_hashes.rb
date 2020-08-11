@@ -67,8 +67,7 @@ epic_tragedy[:additional_characters] = [
     {
     :name => "Apothecary"}
     ]
-  }
-}
+  
 
 
 
